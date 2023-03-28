@@ -3,6 +3,7 @@
 
 from colors import green
 
+from allthing import Whatevs
 from helloworld.greet.greeting import Greeter
 
 
